@@ -125,7 +125,7 @@ USE_TZ = True
 STATIC_URL = 'static/'
 STATICFILES_DIRS=[
     os.path.join(BASE_DIR,'GESTION_DE_BILLET_beta2/static'),
-    os.path.join(BASE_DIR,'GESTION_DE_BILLET_beta2/images'),
+   
 ]
 
 # Default primary key field type
